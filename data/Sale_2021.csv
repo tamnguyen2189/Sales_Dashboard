@@ -1,0 +1,557 @@
+product_name,month,year,date,category,quantity,price,cost,total_cost,revenue,profit
+Ca phe sua tuoi dalgona (size M),1,2021,21-Jan,Presso,65,"55,000",10001,650065,3575000,2924935
+Sua Da,1,2021,21-Jan,Presso,126,"25,000",5190,653940,3150000,2496060
+Bac Xiu,1,2021,21-Jan,Presso,119,"25,000",6265,745535,2975000,2229465
+Matcha Latte (size M),1,2021,21-Jan,Non - Presso,48,"50,000",7048,338304,2400000,2061696
+Ca phe sua tuoi dalgona,1,2021,21-Jan,Presso,42,"45,000",7677,322434,1890000,1567566
+Ca phe sua chuoi dalgona,1,2021,21-Jan,Presso,41,"45,000",15269,626029,1845000,1218971
+Ca phe sua hanh nhan (size M),1,2021,21-Jan,Presso,33,"55,000",19892,656436,1815000,1158564
+Tra vai mo muoi,1,2021,21-Jan,Non - Presso,50,"35,000",3668,183400,1750000,1566600
+Ca phe u lanh cam mat ong (size M),1,2021,21-Jan,Presso,31,"55,000",11976,371256,1705000,1333744
+Bac Xiu (size M),1,2021,21-Jan,Presso,44,"35,000",7405,325820,1540000,1214180
+Tra vai mo muoi (size M),1,2021,21-Jan,Non - Presso,34,"45,000",9000,306000,1530000,1224000
+Tra len men kombucha vai (size M),1,2021,21-Jan,Non - Presso,26,"55,000",13320,346320,1430000,1083680
+Ca phe sua chuoi dalgona (size M),1,2021,21-Jan,Presso,25,55000,18246,456150,1375000,918850
+Sua Da (size M),1,2021,21-Jan,Presso,34,"35,000",6469,219946,1190000,970054
+Matcha Latte,1,2021,21-Jan,Non - Presso,27,"40,000",6014,162378,1080000,917622
+Ca phe sua hanh nhan va dua (size M),1,2021,21-Jan,Presso,18,"60,000",20306,365508,1080000,714492
+Ca phe sua matcha Dalgona,1,2021,21-Jan,Presso,21,"45,000",8471,177891,945000,767109
+Ca phe u lanh tac muoi (size M),1,2021,21-Jan,Presso,16,"55,000",6710,107360,880000,772640
+Tra len men kombucha vai,1,2021,21-Jan,Non - Presso,19,"45,000",12357,234783,855000,620217
+Ca phe sua dua va que (size M),1,2021,21-Jan,Presso,12,"60,000",11653,139836,720000,580164
+Biscotti (Size S - 90gr),1,2021,21-Jan,Cookie,13,"55,000",31500,409500,715000,305500
+Tra sa vai,1,2021,21-Jan,Non - Presso,20,"35,000",5786,115720,700000,584280
+Ca phe sua hanh nhan,1,2021,21-Jan,Presso,14,"45,000",17114,239596,630000,390404
+Combo Kombucha & 50gr Choco Crinkles,1,2021,21-Jan,Combo,9,"70,000",23820,214380,630000,415620
+Ca phe sua matcha Dalgona (size M),1,2021,21-Jan,Presso,11,"55,000",11660,128260,605000,476740
+Tra oolong nguyen la sua hanh nhan,1,2021,21-Jan,Non - Presso,13,45000,19074,247962,585000,337038
+Choco vi muoi Crinkles (80gr) - 5 banh,1,2021,21-Jan,Cookie,19,29000,11100,210900,551000,340100
+Latte (size M),1,2021,21-Jan,Presso,11,"50,000",10510,115610,550000,434390
+Ca phe sua hanh nhan va dua,1,2021,21-Jan,Presso,11,"50,000",18552,204072,550000,345928
+Ca phe Caramel (size M),1,2021,21-Jan,Presso,10,"55,000",10572,105720,550000,444280
+Ca phe u lanh cam mat ong,1,2021,21-Jan,Presso,12,"45,000",9750,117000,540000,423000
+Soda tac muoi (size M),1,2021,21-Jan,Non - Presso,9,"55,000",9230,83070,495000,411930
+Tra sa vai (size M),1,2021,21-Jan,Non - Presso,11,"45,000",8383,92213,495000,402787
+Doi qua sua hat / switch to almond milk,1,2021,21-Jan,Non- Presso,83,"5,000",7056,585648,415000,-170648
+Ca phe Caramel,1,2021,21-Jan,Presso,9,"45,000",7744,69696,405000,335304
+Choco vi muoi Crinkles (50gr) - 3 banh,1,2021,21-Jan,Cookie,20,"20,000",18500,370000,400000,30000
+Tra oolong nguyen la sua hanh nhan (size M),1,2021,21-Jan,Non - Presso,7,"55,000",25472,178304,385000,206696
+Ca phe matcha (size M),1,2021,21-Jan,Presso,7,55000,11643,81501,385000,303499
+Latte,1,2021,21-Jan,Presso,8,40000,7744,61952,320000,258048
+Ca phe sua dua va que,1,2021,21-Jan,Presso,6,50000,11036,66216,300000,233784
+Ca phe u lanh tac muoi,1,2021,21-Jan,Presso,6,"45,000",5240,31440,270000,238560
+Soda tac muoi,1,2021,21-Jan,Non - Presso,5,"45,000",8300,41500,225000,183500
+Mocha,1,2021,21-Jan,Presso,5,"40,000",8028,40140,200000,159860
+Americano,1,2021,21-Jan,Presso,5,"40,000",2500,12500,200000,187500
+Americano (size M),1,2021,21-Jan,Presso,4,"50,000",5000,20000,200000,180000
+Cappuccino,1,2021,21-Jan,Presso,4,"40,000",7744,30976,160000,129024
+Biscotti (Size L - 300gr),1,2021,21-Jan,Cookie,1,"155,000",105000,105000,155000,50000
+Cappuccino (size M),1,2021,21-Jan,Presso,3,"50,000",10510,31530,150000,118470
+Combo Kumquat Coldbrew & 50gr Choco Crinkles,1,2021,21-Jan,Combo,2,"70,000",17610,35220,140000,104780
+Combo Matcha Fusion & 50gr Choco Crinkles,1,2021,21-Jan,Combo,2,"70,000",22143,44286,140000,95714
+Den Da,1,2021,21-Jan,Presso,4,"25,000",4150,16600,100000,83400
+Biscotti (size M - 150gr),1,2021,21-Jan,Cookie,1,85000,52500,52500,85000,32500
+Den Da (size M),1,2021,21-Jan,Presso,2,35000,4418,8836,70000,61164
+Ca phe matcha,1,2021,21-Jan,Presso,1,45000,7502,7502,45000,37498
+Detox,1,2021,21-Jan,Non - Presso,1,"25,000",4971,4971,25000,20029
+Ca phe sua tuoi dalgona (size M),2,2021,21-Feb,Presso,137,"55,000",10001,1370137,7535000,6164863
+Sua Da,2,2021,21-Feb,Presso,189,"25,000",5190,980910,4725000,3744090
+Matcha Latte (size M),2,2021,21-Feb,Non - Presso,90,"50,000",7048,634320,4500000,3865680
+Bac Xiu,2,2021,21-Feb,Presso,175,"25,000",6265,1096375,4375000,3278625
+Tra vai mo muoi,2,2021,21-Feb,Non - Presso,96,"35,000",3668,352128,3360000,3007872
+Tra len men kombucha vai (size M),2,2021,21-Feb,Non - Presso,60,"55,000",13320,799200,3300000,2500800
+Ca phe sua hanh nhan (size M),2,2021,21-Feb,Presso,57,"55,000",19892,1133844,3135000,2001156
+Ca phe sua chuoi dalgona (size M),2,2021,21-Feb,Presso,56,"55,000",18246,1021776,3080000,2058224
+Ca phe sua tuoi dalgona,2,2021,21-Feb,Presso,62,"45,000",7677,475974,2790000,2314026
+Tra vai mo muoi (size M),2,2021,21-Feb,Non - Presso,60,"45,000",9000,540000,2700000,2160000
+Ca phe u lanh cam mat ong (size M),2,2021,21-Feb,Presso,52,"55,000",11976,622752,2860000,2237248
+Bac Xiu (size M),2,2021,21-Feb,Presso,73,"35,000",7405,540565,2555000,2014435
+Ca phe sua chuoi dalgona,2,2021,21-Feb,Presso,54,45000,15269,824526,2430000,1605474
+Sua Da (size M),2,2021,21-Feb,Presso,56,35000,6469,362264,1960000,1597736
+Tra len men kombucha vai,2,2021,21-Feb,Non - Presso,39,"45,000",12357,481923,1755000,1273077
+Ca phe sua matcha Dalgona,2,2021,21-Feb,Presso,37,"45,000",8471,313427,1665000,1351573
+Matcha Latte,2,2021,21-Feb,Non - Presso,38,"40,000",6014,228532,1520000,1291468
+Ca phe sua hanh nhan va dua (size M),2,2021,21-Feb,Presso,26,"60,000",20306,527956,1560000,1032044
+Ca phe u lanh tac muoi (size M),2,2021,21-Feb,Presso,24,"55,000",6710,161040,1320000,1158960
+Tra sa vai,2,2021,21-Feb,Non - Presso,37,"35,000",5786,214082,1295000,1080918
+Ca phe sua hanh nhan,2,2021,21-Feb,Presso,27,"45,000",17114,462078,1215000,752922
+Combo Kombucha & 50gr Choco Crinkles,2,2021,21-Feb,Combo,16,"70,000",23820,381120,1120000,738880
+Ca phe sua hanh nhan va dua,2,2021,21-Feb,Presso,21,"50,000",18552,389592,1050000,660408
+Tra oolong nguyen la sua hanh nhan,2,2021,21-Feb,Non - Presso,23,"45,000",19074,438702,1035000,596298
+Ca phe u lanh cam mat ong,2,2021,21-Feb,Presso,23,"45,000",9750,224250,1035000,810750
+Latte (size M),2,2021,21-Feb,Presso,20,"50,000",10510,210200,1000000,789800
+Ca phe sua dua va que (size M),2,2021,21-Feb,Presso,17,"60,000",11653,198101,1020000,821899
+Soda tac muoi (size M),2,2021,21-Feb,Non - Presso,17,"55,000",9230,156910,935000,778090
+Ca phe sua matcha Dalgona (size M),2,2021,21-Feb,Presso,15,"55,000",11660,174900,825000,650100
+Ca phe Caramel (size M),2,2021,21-Feb,Presso,17,55000,10572,179724,935000,755276
+Biscotti (Size S - 90gr),2,2021,21-Feb,Cookie,15,55000,31500,472500,825000,352500
+Choco vi muoi Crinkles (80gr) - 5 banh,2,2021,21-Feb,Cookie,28,29000,11100,310800,812000,501200
+Ca phe matcha (size M),2,2021,21-Feb,Presso,14,55000,11643,163002,770000,606998
+Tra sa vai (size M),2,2021,21-Feb,Non - Presso,17,45000,8383,142511,765000,622489
+Ca phe Caramel,2,2021,21-Feb,Presso,16,45000,7744,123904,720000,596096
+Doi qua sua hat / switch to almond milk,2,2021,21-Feb,Non- Presso,129,5000,7056,910224,645000,-265224
+Ca phe u lanh tac muoi,2,2021,21-Feb,Presso,14,45000,5240,73360,630000,556640
+Biscotti (Size L - 300gr),2,2021,21-Feb,Cookie,4,155000,105000,420000,620000,200000
+Latte,2,2021,21-Feb,Presso,14,40000,7744,108416,560000,451584
+Tra oolong nguyen la sua hanh nhan (size M),2,2021,21-Feb,Non - Presso,10,55000,25472,254720,550000,295280
+Choco vi muoi Crinkles (50gr) - 3 banh,2,2021,21-Feb,Cookie,27,20000,18500,499500,540000,40500
+Soda tac muoi,2,2021,21-Feb,Non - Presso,8,45000,8300,66400,360000,293600
+Combo Matcha Fusion & 50gr Choco Crinkles,2,2021,21-Feb,Combo,5,70000,22143,110715,350000,239285
+Ca phe sua dua va que,2,2021,21-Feb,Presso,7,50000,11036,77252,350000,272748
+Americano (size M),2,2021,21-Feb,Presso,7,50000,5000,35000,350000,315000
+Mocha,2,2021,21-Feb,Presso,7,40000,8028,56196,280000,223804
+Cappuccino (size M),2,2021,21-Feb,Presso,5,50000,10510,52550,250000,197450
+Den Da,2,2021,21-Feb,Presso,9,25000,4150,37350,225000,187650
+Americano,2,2021,21-Feb,Presso,5,40000,2500,12500,200000,187500
+Ca phe matcha,2,2021,21-Feb,Presso,4,45000,7502,30008,180000,149992
+Cappuccino,2,2021,21-Feb,Presso,4,40000,7744,30976,160000,129024
+Combo Kumquat Coldbrew & 50gr Choco Crinkles,2,2021,21-Feb,Combo,2,70000,17610,35220,140000,104780
+Den Da (size M),2,2021,21-Feb,Presso,6,35000,4418,26508,210000,183492
+Biscotti (size M - 150gr),2,2021,21-Feb,Cookie,1,85000,52500,52500,85000,32500
+Mocha (size M),2,2021,21-Feb,Presso,1,50000,11701,11701,50000,38299
+Detox,2,2021,21-Feb,Non - Presso,1,25000,4971,4971,25000,20029
+Tra Vai,2,2021,21-Feb,Non - Presso,1,20000,10608,10608,20000,9392
+Ca phe sua tuoi dalgona (size M),3,2021,21-Mar,Presso,84,55000,10001,840084,4620000,3779916
+Ca phe sua hanh nhan (size M),3,2021,21-Mar,Presso,72,55000,19892,1432224,3960000,2527776
+Tra vai mo muoi (size M),3,2021,21-Mar,Non - Presso,79,45000,9000,711000,3555000,2844000
+Ca phe sua chuoi dalgona (size M),3,2021,21-Mar,Presso,78,55000,18246,1423188,4290000,2866812
+Tra len men kombucha vai (size M),3,2021,21-Mar,Non - Presso,59,55000,13320,785880,3245000,2459120
+Sua Da (size M),3,2021,21-Mar,Presso,92,35000,6469,595148,3220000,2624852
+Matcha Latte (size M),3,2021,21-Mar,Non - Presso,52,50000,7048,366496,2600000,2233504
+Ca phe sua tuoi dalgona,3,2021,21-Mar,Presso,52,45000,7677,399204,2340000,1940796
+Bac Xiu (size M),3,2021,21-Mar,Presso,90,35000,7405,666450,3150000,2483550
+Bac Xiu,3,2021,21-Mar,Presso,75,25000,6265,469875,1875000,1405125
+Ca phe u lanh cam mat ong (size M),3,2021,21-Mar,Presso,34,55000,11976,407184,1870000,1462816
+Tra vai mo muoi,3,2021,21-Mar,Non - Presso,53,35000,3668,194404,1855000,1660596
+Ca phe sua chuoi dalgona,3,2021,21-Mar,Presso,37,45000,15269,564953,1665000,1100047
+Sua Da,3,2021,21-Mar,Presso,57,25000,5190,295830,1425000,1129170
+Tra sa vai (size M),3,2021,21-Mar,Non - Presso,31,45000,8383,259873,1395000,1135127
+Ca phe Caramel (size M),3,2021,21-Mar,Presso,23,55000,10572,243156,1265000,1021844
+Tra len men kombucha vai,3,2021,21-Mar,Non - Presso,24,45000,12357,296568,1080000,783432
+Tra oolong nguyen la sua hanh nhan (size M),3,2021,21-Mar,Non - Presso,19,55000,25472,483968,1045000,561032
+Ca phe u lanh tac muoi (size M),3,2021,21-Mar,Presso,18,55000,6710,120780,990000,869220
+Ca phe sua hanh nhan va dua (size M),3,2021,21-Mar,Presso,16,60000,20306,324896,960000,635104
+Choco vi muoi Crinkles (80gr) - 5 banh,3,2021,21-Mar,Cookie,33,29000,11100,366300,957000,590700
+Ca phe sua matcha Dalgona (size M),3,2021,21-Mar,Presso,17,55000,11660,198220,935000,736780
+Latte (size M),3,2021,21-Mar,Presso,18,50000,10510,189180,900000,710820
+Ca phe u lanh cam mat ong,3,2021,21-Mar,Presso,20,45000,9750,195000,900000,705000
+Ca phe sua matcha Dalgona,3,2021,21-Mar,Presso,19,45000,8471,160949,855000,694051
+Combo Kombucha & 50gr Choco Crinkles,3,2021,21-Mar,Combo,11,70000,23820,262020,770000,507980
+Ca phe sua hanh nhan,3,2021,21-Mar,Presso,15,45000,17114,256710,675000,418290
+Ca phe sua dua va que (size M),3,2021,21-Mar,Presso,11,60000,11653,128183,660000,531817
+Tra sa vai,3,2021,21-Mar,Non - Presso,17,35000,5786,98362,595000,496638
+Tra oolong nguyen la sua hanh nhan,3,2021,21-Mar,Non - Presso,13,45000,19074,247962,585000,337038
+Soda tac muoi (size M),3,2021,21-Mar,Non - Presso,9,55000,9230,83070,495000,411930
+Ca phe Caramel,3,2021,21-Mar,Presso,11,45000,7744,85184,495000,409816
+Combo Kumquat Coldbrew & 50gr Choco Crinkles,3,2021,21-Mar,Combo,7,70000,17610,123270,490000,366730
+Choco vi muoi Crinkles (50gr) - 3 banh,3,2021,21-Mar,Cookie,23,20000,18500,425500,460000,34500
+Combo Matcha Fusion & 50gr Choco Crinkles,3,2021,21-Mar,Combo,6,70000,22143,132858,420000,287142
+Ca phe sua dua va que,3,2021,21-Mar,Presso,8,50000,11036,88288,400000,311712
+Matcha Latte,3,2021,21-Mar,Non - Presso,9,40000,6014,54126,360000,305874
+Ca phe u lanh tac muoi,3,2021,21-Mar,Presso,8,45000,5240,41920,360000,318080
+Latte,3,2021,21-Mar,Presso,8,40000,7744,61952,320000,258048
+Ca phe sua hanh nhan va dua,3,2021,21-Mar,Presso,6,50000,18552,111312,300000,188688
+Doi qua sua hat / switch to almond milk,3,2021,21-Mar,Non- Presso,56,5000,7056,395136,280000,-115136
+Ca phe matcha (size M),3,2021,21-Mar,Presso,5,55000,11643,58215,275000,216785
+Soda tac muoi,3,2021,21-Mar,Non - Presso,6,45000,8300,49800,270000,220200
+Cappuccino (size M),3,2021,21-Mar,Presso,4,50000,10510,42040,200000,157960
+Ca phe matcha,3,2021,21-Mar,Presso,4,45000,7502,30008,180000,149992
+Americano,3,2021,21-Mar,Presso,3,40000,2500,7500,120000,112500
+Americano (size M),3,2021,21-Mar,Presso,2,50000,5000,10000,100000,90000
+Mocha (size M),3,2021,21-Mar,Presso,2,50000,11701,23402,100000,76598
+Den Da,3,2021,21-Mar,Presso,4,25000,4150,16600,100000,83400
+Cappuccino,3,2021,21-Mar,Presso,2,40000,7744,15488,80000,64512
+Den Da (size M),3,2021,21-Mar,Presso,2,35000,4418,8836,70000,61164
+Mocha,3,2021,21-Mar,Presso,1,40000,8028,8028,40000,31972
+thom shot espresso / extra shot,3,2021,21-Mar,Presso,2,5000,2500,5000,10000,5000
+Ca phe sua tuoi dalgona (size M),4,2021,21-Apr,Presso,76,55000,10001,760076,4180000,3419924
+Ca phe sua chuoi dalgona (size M),4,2021,21-Apr,Presso,82,55000,18246,1496172,4510000,3013828
+Ca phe sua hanh nhan (size M),4,2021,21-Apr,Presso,54,55000,19892,1074168,2970000,1895832
+Sua Da (size M),4,2021,21-Apr,Presso,70,35000,6469,452830,2450000,1997170
+Sua Da,4,2021,21-Apr,Presso,91,25000,5190,472290,2275000,1802710
+Tra len men kombucha vai (size M),4,2021,21-Apr,Non - Presso,38,55000,13320,506160,2090000,1583840
+Ca phe Caramel (size M),4,2021,21-Apr,Presso,37,55000,10572,391164,2035000,1643836
+Bac Xiu (size M),4,2021,21-Apr,Presso,85,35000,7405,629425,2975000,2345575
+Matcha Latte (size M),4,2021,21-Apr,Non - Presso,37,50000,7048,260776,1850000,1589224
+Ca phe u lanh cam mat ong (size M),4,2021,21-Apr,Presso,32,55000,11976,383232,1760000,1376768
+Tra vai mo muoi (size M),4,2021,21-Apr,Non - Presso,39,45000,9000,351000,1755000,1404000
+Bac Xiu,4,2021,21-Apr,Presso,64,25000,6265,400960,1600000,1199040
+Ca phe sua dua va que (size M),4,2021,21-Apr,Presso,26,60000,11653,302978,1560000,1257022
+Ca phe sua chuoi dalgona,4,2021,21-Apr,Presso,34,45000,15269,519146,1530000,1010854
+Tra vai mo muoi,4,2021,21-Apr,Non - Presso,37,35000,3668,135716,1295000,1159284
+Ca phe sua tuoi dalgona,4,2021,21-Apr,Presso,27,45000,7677,207279,1215000,1007721
+Ca phe matcha (size M),4,2021,21-Apr,Presso,19,55000,11643,221217,1045000,823783
+Ca phe sua matcha Dalgona (size M),4,2021,21-Apr,Presso,18,55000,11660,209880,990000,780120
+Tra sa vai (size M),4,2021,21-Apr,Non - Presso,20,45000,8383,167660,900000,732340
+Ca phe u lanh cam mat ong,4,2021,21-Apr,Presso,19,45000,9750,185250,855000,669750
+Choco vi muoi Crinkles (80gr) - 5 banh,4,2021,21-Apr,Cookie,24,29000,11100,266400,696000,429600
+Ca phe Caramel,4,2021,21-Apr,Presso,15,45000,7744,116160,675000,558840
+Tra oolong nguyen la sua hanh nhan (size M),4,2021,21-Apr,Non - Presso,12,55000,25472,305664,660000,354336
+Ca phe u lanh tac muoi (size M),4,2021,21-Apr,Presso,12,55000,6710,80520,660000,579480
+Ca phe sua hanh nhan va dua (size M),4,2021,21-Apr,Presso,11,60000,20306,223366,660000,436634
+Ca phe sua dua va que,4,2021,21-Apr,Presso,12,50000,11036,132432,600000,467568
+Tra len men kombucha vai,4,2021,21-Apr,Non - Presso,13,45000,12357,160641,585000,424359
+Tra oolong nguyen la sua hanh nhan,4,2021,21-Apr,Non - Presso,13,45000,19074,247962,585000,337038
+Latte (size M),4,2021,21-Apr,Presso,11,50000,10510,115610,550000,434390
+Ca phe sua matcha Dalgona,4,2021,21-Apr,Presso,12,45000,8471,101652,540000,438348
+Ca phe sua hanh nhan,4,2021,21-Apr,Presso,12,45000,17114,205368,540000,334632
+Choco vi muoi Crinkles (50gr) - 3 banh,4,2021,21-Apr,Cookie,25,20000,18500,462500,500000,37500
+Combo Kombucha & 50gr Choco Crinkles,4,2021,21-Apr,Combo,7,70000,23820,166740,490000,323260
+Tra sa vai,4,2021,21-Apr,Non - Presso,14,35000,5786,81004,490000,408996
+Combo Matcha Fusion & 50gr Choco Crinkles,4,2021,21-Apr,Combo,6,70000,22143,132858,420000,287142
+Ca phe u lanh tac muoi,4,2021,21-Apr,Presso,9,45000,5240,47160,405000,357840
+Matcha Latte,4,2021,21-Apr,Non - Presso,9,40000,6014,54126,360000,305874
+Doi qua sua hat / switch to almond milk,4,2021,21-Apr,Non- Presso,63,5000,7056,444528,315000,-129528
+Ca phe sua hanh nhan va dua,4,2021,21-Apr,Presso,6,50000,18552,111312,300000,188688
+Latte,4,2021,21-Apr,Presso,7,40000,7744,54208,280000,225792
+Cappuccino (size M),4,2021,21-Apr,Presso,5,50000,10510,52550,250000,197450
+Soda tac muoi (size M),4,2021,21-Apr,Non - Presso,4,55000,9230,36920,220000,183080
+Combo Kumquat Coldbrew & 50gr Choco Crinkles,4,2021,21-Apr,Combo,3,70000,17610,52830,210000,157170
+Americano,4,2021,21-Apr,Presso,5,40000,2500,12500,200000,187500
+Americano (size M),4,2021,21-Apr,Presso,3,50000,5000,15000,150000,135000
+Soda tac muoi,4,2021,21-Apr,Non - Presso,3,45000,8300,24900,135000,110100
+Mocha (size M),4,2021,21-Apr,Presso,2,50000,11701,23402,100000,76598
+Cappuccino,4,2021,21-Apr,Presso,2,40000,7744,15488,80000,64512
+Den Da,4,2021,21-Apr,Presso,2,25000,4150,8300,50000,41700
+Ca phe matcha,4,2021,21-Apr,Presso,1,45000,7502,7502,45000,37498
+Mocha,4,2021,21-Apr,Presso,1,40000,8028,8028,40000,31972
+Den Da (size M),4,2021,21-Apr,Presso,1,35000,4418,4418,35000,30582
+Tra vai mo muoi (size M),5,2021,21-May,Non - Presso,82,45000,9000,738000,3690000,2952000
+Ca phe sua chuoi dalgona (size M),5,2021,21-May,Presso,89,55000,18246,1623894,4895000,3271106
+Ca phe sua hanh nhan (size M),5,2021,21-May,Presso,64,55000,19892,1273088,3520000,2246912
+Ca phe sua tuoi dalgona (size M),5,2021,21-May,Presso,60,55000,10001,600060,3300000,2699940
+Sua Da (size M),5,2021,21-May,Presso,89,35000,6469,575741,3115000,2539259
+Bac Xiu,5,2021,21-May,Presso,112,25000,6265,701680,2800000,2098320
+Ca phe u lanh cam mat ong (size M),5,2021,21-May,Presso,41,55000,11976,491016,2255000,1763984
+Sua Da,5,2021,21-May,Presso,90,25000,5190,467100,2250000,1782900
+Tra len men kombucha vai (size M),5,2021,21-May,Non - Presso,40,55000,13320,532800,2200000,1667200
+Ca phe Caramel (size M),5,2021,21-May,Presso,38,55000,10572,401736,2090000,1688264
+Bac Xiu (size M),5,2021,21-May,Presso,90,35000,7405,666450,3150000,2483550
+Matcha Latte (size M),5,2021,21-May,Non - Presso,35,50000,7048,246680,1750000,1503320
+Ca phe sua matcha Dalgona (size M),5,2021,21-May,Presso,31,55000,11660,361460,1705000,1343540
+Ca phe u lanh tac muoi (size M),5,2021,21-May,Presso,25,55000,6710,167750,1375000,1207250
+Ca phe u lanh cam mat ong,5,2021,21-May,Presso,27,45000,9750,263250,1215000,951750
+Ca phe sua chuoi dalgona,5,2021,21-May,Presso,26,45000,15269,396994,1170000,773006
+Tra vai mo muoi,5,2021,21-May,Non - Presso,31,35000,3668,113708,1085000,971292
+Tra oolong nguyen la sua hanh nhan (size M),5,2021,21-May,Non - Presso,19,55000,25472,483968,1045000,561032
+Tra sa vai (size M),5,2021,21-May,Non - Presso,23,45000,8383,192809,1035000,842191
+Ca phe sua dua va que (size M),5,2021,21-May,Presso,17,60000,11653,198101,1020000,821899
+Ca phe matcha (size M),5,2021,21-May,Presso,17,55000,11643,197931,935000,737069
+Tra len men kombucha vai,5,2021,21-May,Non - Presso,19,45000,12357,234783,855000,620217
+Ca phe sua matcha Dalgona,5,2021,21-May,Presso,18,45000,8471,152478,810000,657522
+Ca phe sua tuoi dalgona,5,2021,21-May,Presso,18,45000,7677,138186,810000,671814
+Ca phe sua hanh nhan va dua (size M),5,2021,21-May,Presso,13,60000,20306,263978,780000,516022
+Ca phe sua hanh nhan,5,2021,21-May,Presso,17,45000,17114,290938,765000,474062
+Ca phe sua dua va que,5,2021,21-May,Presso,13,50000,11036,143468,650000,506532
+Latte (size M),5,2021,21-May,Presso,13,50000,10510,136630,650000,513370
+Tra oolong nguyen la sua hanh nhan,5,2021,21-May,Non - Presso,14,45000,19074,267036,630000,362964
+Combo Matcha Fusion & 50gr Choco Crinkles,5,2021,21-May,Combo,9,70000,22143,199287,630000,430713
+Matcha Latte,5,2021,21-May,Non - Presso,15,40000,6014,90210,600000,509790
+Ca phe Caramel,5,2021,21-May,Presso,13,45000,7744,100672,585000,484328
+Choco vi muoi Crinkles (80gr) - 5 banh,5,2021,21-May,Cookie,19,29000,11100,210900,551000,340100
+Tra sa vai,5,2021,21-May,Non - Presso,13,35000,5786,75218,455000,379782
+Ca phe sua hanh nhan va dua,5,2021,21-May,Presso,9,50000,18552,166968,450000,283032
+Latte,5,2021,21-May,Presso,11,40000,7744,85184,440000,354816
+Choco vi muoi Crinkles (50gr) - 3 banh,5,2021,21-May,Cookie,22,20000,18500,407000,440000,33000
+Combo Kombucha & 50gr Choco Crinkles,5,2021,21-May,Combo,6,70000,23820,142920,420000,277080
+Ca phe u lanh tac muoi,5,2021,21-May,Presso,7,45000,5240,36680,315000,278320
+Doi qua sua hat / switch to almond milk,5,2021,21-May,Non- Presso,62,5000,7056,437472,310000,-127472
+Americano (size M),5,2021,21-May,Presso,5,50000,5000,25000,250000,225000
+Cappuccino (size M),5,2021,21-May,Presso,5,50000,10510,52550,250000,197450
+Americano,5,2021,21-May,Presso,6,40000,2500,15000,240000,225000
+Soda tac muoi (size M),5,2021,21-May,Non - Presso,4,55000,9230,36920,220000,183080
+Combo Kumquat Coldbrew & 50gr Choco Crinkles,5,2021,21-May,Combo,3,70000,17610,52830,210000,157170
+Mocha,5,2021,21-May,Presso,4,40000,8028,32112,160000,127888
+Soda tac muoi,5,2021,21-May,Non - Presso,3,45000,8300,24900,135000,110100
+Mocha (size M),5,2021,21-May,Presso,2,50000,11701,23402,100000,76598
+Ca phe matcha,5,2021,21-May,Presso,1,45000,7502,7502,45000,37498
+Cappuccino,5,2021,21-May,Presso,1,40000,7744,7744,40000,32256
+Ca phe sua tuoi dalgona (size M),6,2021,21-Jun,Presso,76,55000,10001,760076,4180000,3419924
+Matcha Latte (size M),6,2021,21-Jun,Non - Presso,63,50000,7048,444024,3150000,2705976
+Tra vai mo muoi (size M),6,2021,21-Jun,Non - Presso,67,45000,9000,603000,3015000,2412000
+Ca phe sua chuoi dalgona (size M),6,2021,21-Jun,Presso,54,55000,18246,985284,2970000,1984716
+Ca phe sua hanh nhan (size M),6,2021,21-Jun,Presso,47,55000,19892,934924,2585000,1650076
+Ca phe Caramel (size M),6,2021,21-Jun,Presso,34,55000,10572,359448,1870000,1510552
+Ca phe sua chuoi dalgona,6,2021,21-Jun,Presso,37,45000,15269,564953,1665000,1100047
+Tra oolong nguyen la sua hanh nhan (size M),6,2021,21-Jun,Non - Presso,30,55000,25472,764160,1650000,885840
+Bac Xiu (size M),6,2021,21-Jun,Presso,55,35000,7405,407275,1925000,1517725
+Tra sa vai (size M),6,2021,21-Jun,Non - Presso,33,45000,8383,276639,1485000,1208361
+Ca phe sua matcha Dalgona (size M),6,2021,21-Jun,Presso,26,55000,11660,303160,1430000,1126840
+Ca phe sua hanh nhan va dua (size M),6,2021,21-Jun,Presso,23,60000,20306,467038,1380000,912962
+Bac Xiu,6,2021,21-Jun,Presso,51,25000,6265,319515,1275000,955485
+Ca phe u lanh cam mat ong (size M),6,2021,21-Jun,Presso,23,55000,11976,275448,1265000,989552
+Ca phe sua matcha Dalgona,6,2021,21-Jun,Presso,28,45000,8471,237188,1260000,1022812
+Sua Da (size M),6,2021,21-Jun,Presso,36,35000,6469,232884,1260000,1027116
+Ca phe sua tuoi dalgona,6,2021,21-Jun,Presso,27,45000,7677,207279,1215000,1007721
+Tra len men kombucha vai (size M),6,2021,21-Jun,Non - Presso,18,55000,13320,239760,990000,750240
+Sua Da,6,2021,21-Jun,Presso,36,25000,5190,186840,900000,713160
+Ca phe sua hanh nhan,6,2021,21-Jun,Presso,19,45000,17114,325166,855000,529834
+Ca phe sua hanh nhan va dua,6,2021,21-Jun,Presso,17,50000,18552,315384,850000,534616
+Ca phe sua dua va que (size M),6,2021,21-Jun,Presso,14,60000,11653,163142,840000,676858
+Ca phe Caramel,6,2021,21-Jun,Presso,16,45000,7744,123904,720000,596096
+Choco vi muoi Crinkles (80gr) - 5 banh,6,2021,21-Jun,Cookie,23,29000,11100,255300,667000,411700
+Tra oolong nguyen la sua hanh nhan,6,2021,21-Jun,Non - Presso,14,45000,19074,267036,630000,362964
+Latte (size M),6,2021,21-Jun,Presso,11,50000,10510,115610,550000,434390
+Ca phe sua dua va que,6,2021,21-Jun,Presso,11,50000,11036,121396,550000,428604
+Americano (size M),6,2021,21-Jun,Presso,10,50000,5000,50000,500000,450000
+Tra len men kombucha vai,6,2021,21-Jun,Non - Presso,11,45000,12357,135927,495000,359073
+Ca phe matcha (size M),6,2021,21-Jun,Presso,9,55000,11643,104787,495000,390213
+Tra vai mo muoi,6,2021,21-Jun,Non - Presso,13,35000,3668,47684,455000,407316
+Ca phe u lanh cam mat ong,6,2021,21-Jun,Presso,10,45000,9750,97500,450000,352500
+Ca phe u lanh tac muoi (size M),6,2021,21-Jun,Presso,8,55000,6710,53680,440000,386320
+Tra sa vai,6,2021,21-Jun,Non - Presso,12,35000,5786,69432,420000,350568
+Combo Kombucha & 50gr Choco Crinkles,6,2021,21-Jun,Combo,6,70000,23820,142920,420000,277080
+Matcha Latte,6,2021,21-Jun,Non - Presso,10,40000,6014,60140,400000,339860
+Doi qua sua hat / switch to almond milk,6,2021,21-Jun,Non- Presso,70,5000,7056,493920,350000,-143920
+Combo Kumquat Coldbrew & 50gr Choco Crinkles,6,2021,21-Jun,Combo,4,70000,17610,70440,280000,209560
+Soda tac muoi (size M),6,2021,21-Jun,Non - Presso,5,55000,9230,46150,275000,228850
+Den Da (size M),6,2021,21-Jun,Presso,7,35000,4418,30926,245000,214074
+Combo Matcha Fusion & 50gr Choco Crinkles,6,2021,21-Jun,Combo,3,70000,22143,66429,210000,143571
+Cappuccino,6,2021,21-Jun,Presso,5,40000,7744,38720,200000,161280
+Choco vi muoi Crinkles (50gr) - 3 banh,6,2021,21-Jun,Cookie,10,20000,18500,185000,200000,15000
+Cappuccino (size M),6,2021,21-Jun,Presso,4,50000,10510,42040,200000,157960
+Ca phe matcha,6,2021,21-Jun,Presso,4,45000,7502,30008,180000,149992
+Soda tac muoi,6,2021,21-Jun,Non - Presso,4,45000,8300,33200,180000,146800
+Ca phe u lanh tac muoi,6,2021,21-Jun,Presso,4,45000,5240,20960,180000,159040
+Latte,6,2021,21-Jun,Presso,4,40000,7744,30976,160000,129024
+Americano,6,2021,21-Jun,Presso,3,40000,2500,7500,120000,112500
+Mocha (size M),6,2021,21-Jun,Presso,2,50000,11701,23402,100000,76598
+Den Da,6,2021,21-Jun,Presso,4,25000,4150,16600,100000,83400
+thom shot espresso / extra shot,6,2021,21-Jun,Presso,7,5000,2500,17500,35000,17500
+Matcha Latte (size M),7,2021,21-Jul,Non - Presso,25,50000,7048,176200,1250000,1073800
+Ca phe sua hanh nhan (size M),7,2021,21-Jul,Presso,22,55000,19892,437624,1210000,772376
+Tra vai mo muoi (size M),7,2021,21-Jul,Non - Presso,20,45000,9000,180000,900000,720000
+Ca phe sua tuoi dalgona (size M),7,2021,21-Jul,Presso,16,55000,10001,160016,880000,719984
+Sua Da (size M),7,2021,21-Jul,Presso,23,35000,6469,148787,805000,656213
+Ca phe u lanh cam mat ong (size M),7,2021,21-Jul,Presso,14,55000,11976,167664,770000,602336
+Ca phe sua chuoi dalgona,7,2021,21-Jul,Presso,17,45000,15269,259573,765000,505427
+Ca phe u lanh tac muoi (size M),7,2021,21-Jul,Presso,12,55000,6710,80520,660000,579480
+Ca phe sua chuoi dalgona (size M),7,2021,21-Jul,Presso,14,55000,18246,255444,770000,514556
+Bac Xiu (size M),7,2021,21-Jul,Presso,23,35000,7405,170315,805000,634685
+Tra oolong nguyen la sua hanh nhan (size M),7,2021,21-Jul,Non - Presso,10,55000,25472,254720,550000,295280
+Sua Da,7,2021,21-Jul,Presso,22,25000,5190,114180,550000,435820
+Ca phe sua hanh nhan va dua,7,2021,21-Jul,Presso,10,50000,18552,185520,500000,314480
+Ca phe u lanh cam mat ong,7,2021,21-Jul,Presso,11,45000,9750,107250,495000,387750
+Den Da,7,2021,21-Jul,Presso,19,25000,4150,78850,475000,396150
+Ca phe Caramel (size M),7,2021,21-Jul,Presso,7,55000,10572,74004,385000,310996
+Bac Xiu,7,2021,21-Jul,Presso,15,25000,6265,93975,375000,281025
+Ca phe sua tuoi dalgona,7,2021,21-Jul,Presso,8,45000,7677,61416,360000,298584
+Tra len men kombucha vai (size M),7,2021,21-Jul,Non - Presso,6,55000,13320,79920,330000,250080
+Ca phe sua dua va que (size M),7,2021,21-Jul,Presso,5,60000,11653,58265,300000,241735
+Ca phe sua hanh nhan va dua (size M),7,2021,21-Jul,Presso,5,60000,20306,101530,300000,198470
+Ca phe sua hanh nhan,7,2021,21-Jul,Presso,6,45000,17114,102684,270000,167316
+Ca phe sua matcha Dalgona,7,2021,21-Jul,Presso,5,45000,8471,42355,225000,182645
+Ca phe sua matcha Dalgona (size M),7,2021,21-Jul,Presso,4,55000,11660,46640,220000,173360
+Tra sa vai,7,2021,21-Jul,Non - Presso,6,35000,5786,34716,210000,175284
+Ca phe sua dua va que,7,2021,21-Jul,Presso,4,50000,11036,44144,200000,155856
+Tra sa vai (size M),7,2021,21-Jul,Non - Presso,4,45000,8383,33532,180000,146468
+Ca phe Caramel,7,2021,21-Jul,Presso,4,45000,7744,30976,180000,149024
+Tra oolong nguyen la sua hanh nhan,7,2021,21-Jul,Non - Presso,4,45000,19074,76296,180000,103704
+Ca phe matcha (size M),7,2021,21-Jul,Presso,3,55000,11643,34929,165000,130071
+Tra vai mo muoi,7,2021,21-Jul,Non - Presso,3,35000,3668,11004,105000,93996
+Latte (size M),7,2021,21-Jul,Presso,2,50000,10510,21020,100000,78980
+Soda tac muoi,7,2021,21-Jul,Non - Presso,2,45000,8300,16600,90000,73400
+Matcha Latte,7,2021,21-Jul,Non - Presso,2,40000,6014,12028,80000,67972
+Den Da (size M),7,2021,21-Jul,Presso,2,35000,4418,8836,70000,61164
+Doi qua sua hat / switch to almond milk,7,2021,21-Jul,Non- Presso,13,5000,7056,91728,65000,-26728
+Americano (size M),7,2021,21-Jul,Presso,1,50000,5000,5000,50000,45000
+Cappuccino (size M),7,2021,21-Jul,Presso,1,50000,10510,10510,50000,39490
+Tra len men kombucha vai,7,2021,21-Jul,Non - Presso,1,45000,12357,12357,45000,32643
+Ca phe u lanh tac muoi,7,2021,21-Jul,Presso,1,45000,5240,5240,45000,39760
+Ca phe matcha,7,2021,21-Jul,Presso,1,45000,7502,7502,45000,37498
+thom shot espresso / extra shot,7,2021,21-Jul,Presso,8,5000,2500,20000,40000,20000
+Mocha,7,2021,21-Jul,Presso,1,40000,8028,8028,40000,31972
+Cappuccino,7,2021,21-Jul,Presso,1,40000,7744,7744,40000,32256
+Americano,7,2021,21-Jul,Presso,1,40000,2500,2500,40000,37500
+Ca phe sua hanh nhan (size M),10,2021,21-Oct,Presso,84,55000,19892,1670928,4620000,2949072
+Tra vai mo muoi (size M),10,2021,21-Oct,Non - Presso,73,45000,9000,657000,3285000,2628000
+Matcha Latte (size M),10,2021,21-Oct,Non - Presso,55,50000,7048,387640,2750000,2362360
+Ca phe sua tuoi dalgona (size M),10,2021,21-Oct,Presso,49,55000,10001,490049,2695000,2204951
+Tra oolong nguyen la sua hanh nhan (size M),10,2021,21-Oct,Non - Presso,43,55000,25472,1095296,2365000,1269704
+Ca phe u lanh cam mat ong (size M),10,2021,21-Oct,Presso,37,55000,11976,443112,2035000,1591888
+Tra vai mo muoi,10,2021,21-Oct,Non - Presso,57,35000,3668,209076,1995000,1785924
+Ca phe sua chuoi dalgona (size M),10,2021,21-Oct,Presso,28,55000,18246,510888,1540000,1029112
+Tra len men kombucha vai (size M),10,2021,21-Oct,Non - Presso,19,55000,13320,253080,1045000,791920
+Ca phe sua dua va que (size M),10,2021,21-Oct,Presso,16,60000,11653,186448,960000,773552
+Ca phe Caramel (size M),10,2021,21-Oct,Presso,17,55000,10572,179724,935000,755276
+Sua Da,10,2021,21-Oct,Presso,36,25000,5190,186840,900000,713160
+Ca phe sua matcha Dalgona (size M),10,2021,21-Oct,Presso,16,55000,11660,186560,880000,693440
+Ca phe sua chuoi dalgona,10,2021,21-Oct,Presso,18,45000,15269,274842,810000,535158
+Sua Da (size M),10,2021,21-Oct,Presso,23,35000,6469,148787,805000,656213
+Ca phe sua hanh nhan va dua (size M),10,2021,21-Oct,Presso,13,60000,20306,263978,780000,516022
+Ca phe u lanh cam mat ong,10,2021,21-Oct,Presso,17,45000,9750,165750,765000,599250
+Den Da (size M),10,2021,21-Oct,Presso,20,35000,4418,88360,700000,611640
+Bac Xiu,10,2021,21-Oct,Presso,23,25000,6265,144095,575000,430905
+Ca phe sua hanh nhan va dua,10,2021,21-Oct,Presso,11,50000,18552,204072,550000,345928
+Americano (size M),10,2021,21-Oct,Presso,11,50000,5000,55000,550000,495000
+Tra sa vai (size M),10,2021,21-Oct,Non - Presso,12,45000,8383,100596,540000,439404
+Bac Xiu (size M),10,2021,21-Oct,Presso,18,35000,7405,133290,630000,496710
+Tra sa vai,10,2021,21-Oct,Non - Presso,14,35000,5786,81004,490000,408996
+Ca phe sua hanh nhan,10,2021,21-Oct,Presso,10,45000,17114,171140,450000,278860
+Ca phe sua matcha Dalgona,10,2021,21-Oct,Presso,10,45000,8471,84710,450000,365290
+Ca phe u lanh tac muoi (size M),10,2021,21-Oct,Presso,8,55000,6710,53680,440000,386320
+Matcha Latte,10,2021,21-Oct,Non - Presso,10,40000,6014,60140,400000,339860
+Cappuccino (size M),10,2021,21-Oct,Presso,8,50000,10510,84080,400000,315920
+Ca phe sua dua va que,10,2021,21-Oct,Presso,8,50000,11036,88288,400000,311712
+Soda tac muoi (size M),10,2021,21-Oct,Non - Presso,7,55000,9230,64610,385000,320390
+Ca phe sua tuoi dalgona,10,2021,21-Oct,Presso,8,45000,7677,61416,360000,298584
+Ca phe Caramel,10,2021,21-Oct,Presso,8,45000,7744,61952,360000,298048
+Latte (size M),10,2021,21-Oct,Presso,7,50000,10510,73570,350000,276430
+Doi qua sua hat / switch to almond milk,10,2021,21-Oct,Non- Presso,62,5000,7056,437472,310000,-127472
+Americano,10,2021,21-Oct,Presso,7,40000,2500,17500,280000,262500
+Tra oolong nguyen la sua hanh nhan,10,2021,21-Oct,Non - Presso,5,45000,19074,95370,225000,129630
+Den Da,10,2021,21-Oct,Presso,7,25000,4150,29050,175000,145950
+Ca phe u lanh tac muoi,10,2021,21-Oct,Presso,3,45000,5240,15720,135000,119280
+thom shot espresso / extra shot,10,2021,21-Oct,Presso,23,5000,2500,57500,115000,57500
+Tra len men kombucha vai,10,2021,21-Oct,Non - Presso,2,45000,12357,24714,90000,65286
+Cappuccino,10,2021,21-Oct,Presso,2,40000,7744,15488,80000,64512
+Ca phe matcha (size M),10,2021,21-Oct,Presso,1,55000,11643,11643,55000,43357
+Mocha (size M),10,2021,21-Oct,Presso,1,50000,11701,11701,50000,38299
+Soda tac muoi,10,2021,21-Oct,Non - Presso,1,45000,8300,8300,45000,36700
+Mocha,10,2021,21-Oct,Presso,1,40000,8028,8028,40000,31972
+Ca phe sua hanh nhan (size M),11,2021,21-Nov,Presso,59,55000,19892,1173628,3245000,2071372
+Tra vai mo muoi (size M),11,2021,21-Nov,Non - Presso,68,45000,9000,612000,3060000,2448000
+Tra len men kombucha vai (size M),11,2021,21-Nov,Non - Presso,39,55000,13320,519480,2145000,1625520
+Ca phe sua hanh nhan va dua (size M),11,2021,21-Nov,Presso,29,60000,20306,588874,1740000,1151126
+Tra len men kombucha Da me thach deo (size M),11,2021,21-Nov,Non - Presso,31,55000,14044,435364,1705000,1269636
+matcha sua dua thach deo (size M),11,2021,21-Nov,Non - Presso,27,60000,11710,316170,1620000,1303830
+Ca phe u lanh cam mat ong (size M),11,2021,21-Nov,Presso,29,55000,11976,347304,1595000,1247696
+Bac Xiu Muoi (size M),11,2021,21-Nov,Presso,42,35000,7405,311010,1470000,1158990
+Sua Da (size M),11,2021,21-Nov,Presso,38,35000,6469,245822,1330000,1084178
+Ca phe sua tuoi dalgona (size M),11,2021,21-Nov,Presso,23,55000,10001,230023,1265000,1034977
+Mocha Ot,11,2021,21-Nov,Presso,22,55000,10149,223278,1210000,986722
+Ca phe sua chuoi dalgona (size M),11,2021,21-Nov,Presso,22,55000,18246,401412,1210000,808588
+Tra hoa thach hat chia (size M),11,2021,21-Nov,Non - Presso,26,45000,4079,106054,1170000,1063946
+matcha sua dua thach deo,11,2021,21-Nov,Non - Presso,23,50000,9001,207023,1150000,942977
+Matcha Latte (size M),11,2021,21-Nov,Non - Presso,23,50000,7048,162104,1150000,987896
+Tra sua tuoi Earl Grey dalgona,11,2021,21-Nov,Non - Presso,25,45000,4574,114350,1125000,1010650
+Ca phe sua chuoi dalgona,11,2021,21-Nov,Presso,24,45000,15269,366456,1080000,713544
+Bac Xiu (size M),11,2021,21-Nov,Presso,30,35000,7405,222150,1050000,827850
+Tra vai mo muoi,11,2021,21-Nov,Non - Presso,30,35000,3668,110040,1050000,939960
+Tra oolong nguyen la sua hanh nhan (size M),11,2021,21-Nov,Non - Presso,17,55000,25472,433024,935000,501976
+Ca phe sua dua va que (size M),11,2021,21-Nov,Presso,15,60000,11653,174795,900000,725205
+Tra oolong nguyen la sua hanh nhan,11,2021,21-Nov,Non - Presso,19,45000,19074,362406,855000,492594
+Ca phe sua hanh nhan va dua,11,2021,21-Nov,Presso,15,50000,18552,278280,750000,471720
+Bac Xiu Muoi,11,2021,21-Nov,Presso,30,25000,6265,187950,750000,562050
+Ca phe sua dua va que,11,2021,21-Nov,Presso,14,50000,11036,154504,700000,545496
+Tra sa vai (size M),11,2021,21-Nov,Non - Presso,15,45000,8383,125745,675000,549255
+flan presso,11,2021,21-Nov,Presso,18,35000,20275,364950,630000,265050
+Bac Xiu,11,2021,21-Nov,Presso,25,25000,6265,156625,625000,468375
+Sua Da,11,2021,21-Nov,Presso,24,25000,5190,124560,600000,475440
+Combo Kombucha & 50gr Choco Crinkles,11,2021,21-Nov,Combo,8,70000,23820,190560,560000,369440
+Ca phe u lanh Da me (size M),11,2021,21-Nov,Presso,10,55000,8680,86800,550000,463200
+Ca phe sua tuoi dalgona,11,2021,21-Nov,Presso,12,45000,7677,92124,540000,447876
+Ca phe sua hanh nhan,11,2021,21-Nov,Presso,12,45000,17114,205368,540000,334632
+latte tan cham,11,2021,21-Nov,Presso,11,45000,4430,48730,495000,446270
+Ca phe matcha (size M),11,2021,21-Nov,Presso,9,55000,11643,104787,495000,390213
+Ca phe sua matcha Dalgona (size M),11,2021,21-Nov,Presso,9,55000,11660,104940,495000,390060
+Matcha Latte,11,2021,21-Nov,Non - Presso,12,40000,6014,72168,480000,407832
+Choco vi muoi Crinkles (50gr) - 3 banh,11,2021,21-Nov,Cookie,24,20000,18500,444000,480000,36000
+Tra len men kombucha Da me thach deo,11,2021,21-Nov,Non - Presso,10,45000,10498,104980,450000,345020
+Latte (size M),11,2021,21-Nov,Presso,9,50000,10510,94590,450000,355410
+Tra len men kombucha vai,11,2021,21-Nov,Non - Presso,10,45000,12357,123570,450000,326430
+Ca phe u lanh tac muoi (size M),11,2021,21-Nov,Presso,8,55000,6710,53680,440000,386320
+Ca phe sua matcha Dalgona,11,2021,21-Nov,Presso,9,45000,8471,76239,405000,328761
+Ca phe u lanh kem vanilla (size M),11,2021,21-Nov,Presso,7,55000,7886,55202,385000,329798
+Ca phe Caramel (size M),11,2021,21-Nov,Presso,7,55000,10572,74004,385000,310996
+Tra sa vai,11,2021,21-Nov,Non - Presso,11,35000,5786,63646,385000,321354
+Ca phe u lanh cam mat ong,11,2021,21-Nov,Presso,8,45000,9750,78000,360000,282000
+Ca phe Caramel,11,2021,21-Nov,Presso,8,45000,7744,61952,360000,298048
+Choco vi muoi Crinkles (80gr) - 5 banh,11,2021,21-Nov,Cookie,11,29000,11100,122100,319000,196900
+Combo Matcha Fusion & 50gr Choco Crinkles,11,2021,21-Nov,Combo,4,70000,22143,88572,280000,191428
+Latte,11,2021,21-Nov,Presso,7,40000,7744,54208,280000,225792
+Tonic Presso,11,2021,21-Nov,Presso,5,55000,11500,57500,275000,217500
+Sprite Presso,11,2021,21-Nov,Presso,5,55000,11500,57500,275000,217500
+Americano,11,2021,21-Nov,Presso,6,40000,2500,15000,240000,225000
+Combo Kumquat Coldbrew & 50gr Choco Crinkles,11,2021,21-Nov,Combo,3,70000,17610,52830,210000,157170
+Cappuccino (size M),11,2021,21-Nov,Presso,4,50000,10510,42040,200000,157960
+thom shot espresso / extra shot,11,2021,21-Nov,Presso,39,5000,2500,97500,195000,97500
+"Sua ""chill"" espresso",11,2021,21-Nov,Presso,4,45000,5460,21840,180000,158160
+Den Da (size M),11,2021,21-Nov,Presso,5,35000,4418,22090,175000,152910
+Doi qua sua hat / switch to almond milk,11,2021,21-Nov,Non- Presso,34,5000,7056,239904,170000,-69904
+Tra hoa thach hat chia,11,2021,21-Nov,Non - Presso,4,35000,3034,12136,140000,127864
+Sugar daddy uong coffee,11,2021,21-Nov,Presso,3,45000,17075,51225,135000,83775
+Cappuccino,11,2021,21-Nov,Presso,3,40000,7744,23232,120000,96768
+Den Da,11,2021,21-Nov,Presso,4,25000,4150,16600,100000,83400
+Mocha (size M),11,2021,21-Nov,Presso,2,50000,11701,23402,100000,76598
+Ca phe u lanh tac muoi,11,2021,21-Nov,Presso,2,45000,5240,10480,90000,79520
+Americano (size M),11,2021,21-Nov,Presso,1,50000,5000,5000,50000,45000
+Soda tac muoi,11,2021,21-Nov,Non - Presso,1,45000,8300,8300,45000,36700
+Ca phe u lanh kem vanilla,11,2021,21-Nov,Presso,1,45000,6626,6626,45000,38374
+Ca phe matcha,11,2021,21-Nov,Presso,1,45000,7502,7502,45000,37498
+Mocha,11,2021,21-Nov,Presso,1,40000,8028,8028,40000,31972
+Ca phe sua hanh nhan (size M),12,2021,21-Dec,Presso,106,55000,19892,2108552,5830000,3721448
+Tra vai mo muoi (size M),12,2021,21-Dec,Non - Presso,110,45000,9000,990000,4950000,3960000
+Bac Xiu Muoi (size M),12,2021,21-Dec,Presso,119,35000,7405,881195,4165000,3283805
+Ca phe sua hanh nhan va dua (size M),12,2021,21-Dec,Presso,53,60000,20306,1076218,3180000,2103782
+Sua Da (size M),12,2021,21-Dec,Presso,89,35000,6469,575741,3115000,2539259
+Ca phe sua chuoi dalgona (size M),12,2021,21-Dec,Presso,56,55000,18246,1021776,3080000,2058224
+Ca phe sua tuoi dalgona (size M),12,2021,21-Dec,Presso,50,55000,10001,500050,2750000,2249950
+Ca phe u lanh cam mat ong (size M),12,2021,21-Dec,Presso,47,55000,11976,562872,2585000,2022128
+Tra len men kombucha vai (size M),12,2021,21-Dec,Non - Presso,45,55000,13320,599400,2475000,1875600
+Tra vai mo muoi,12,2021,21-Dec,Non - Presso,70,35000,3668,256760,2450000,2193240
+Tra sua tuoi Earl Grey dalgona,12,2021,21-Dec,Non - Presso,53,45000,4574,242422,2385000,2142578
+Mocha Ot,12,2021,21-Dec,Presso,40,55000,10149,405960,2200000,1794040
+Ca phe sua chuoi dalgona,12,2021,21-Dec,Presso,48,45000,15269,732912,2160000,1427088
+Matcha Latte (size M),12,2021,21-Dec,Non - Presso,41,50000,7048,288968,2050000,1761032
+Ca phe sua hanh nhan va dua,12,2021,21-Dec,Presso,40,50000,18552,742080,2000000,1257920
+Tra len men kombucha Da me thach deo (size M),12,2021,21-Dec,Non - Presso,36,55000,14044,505584,1980000,1474416
+Bac Xiu (size M),12,2021,21-Dec,Presso,55,35000,7405,407275,1925000,1517725
+matcha sua dua thach deo (size M),12,2021,21-Dec,Non - Presso,31,60000,11710,363010,1860000,1496990
+Sua Da,12,2021,21-Dec,Presso,69,25000,5190,358110,1725000,1366890
+Choco vi muoi Crinkles (80gr) - 5 banh,12,2021,21-Dec,Cookie,58,29000,11100,643800,1682000,1038200
+Bac Xiu Muoi,12,2021,21-Dec,Presso,67,25000,6265,419755,1675000,1255245
+matcha sua dua thach deo,12,2021,21-Dec,Non - Presso,32,50000,9001,288032,1600000,1311968
+Tra oolong nguyen la sua hanh nhan,12,2021,21-Dec,Non - Presso,34,45000,19074,648516,1530000,881484
+Bac Xiu,12,2021,21-Dec,Presso,61,25000,6265,382165,1525000,1142835
+Tra hoa thach hat chia (size M),12,2021,21-Dec,Non - Presso,33,45000,4079,134607,1485000,1350393
+Ca phe u lanh Da me (size M),12,2021,21-Dec,Presso,25,55000,8680,217000,1375000,1158000
+Tra len men kombucha vai,12,2021,21-Dec,Non - Presso,30,45000,12357,370710,1350000,979290
+Ca phe sua dua va que (size M),12,2021,21-Dec,Presso,21,60000,11653,244713,1260000,1015287
+Ca phe sua tuoi dalgona,12,2021,21-Dec,Presso,27,45000,7677,207279,1215000,1007721
+Latte (size M),12,2021,21-Dec,Presso,24,50000,10510,252240,1200000,947760
+flan presso,12,2021,21-Dec,Presso,34,35000,20275,689350,1190000,500650
+Ca phe sua matcha Dalgona,12,2021,21-Dec,Presso,25,45000,8471,211775,1125000,913225
+Ca phe sua hanh nhan,12,2021,21-Dec,Presso,25,45000,17114,427850,1125000,697150
+Ca phe sua matcha Dalgona (size M),12,2021,21-Dec,Presso,20,55000,11660,233200,1100000,866800
+Tra len men kombucha Da me thach deo,12,2021,21-Dec,Non - Presso,22,45000,10498,230956,990000,759044
+Ca phe Caramel (size M),12,2021,21-Dec,Presso,18,55000,10572,190296,990000,799704
+Americano (size M),12,2021,21-Dec,Presso,18,50000,5000,90000,900000,810000
+thom shot espresso / extra shot,12,2021,21-Dec,Presso,170,5000,2500,425000,850000,425000
+Tra oolong nguyen la sua hanh nhan (size M),12,2021,21-Dec,Non - Presso,15,55000,25472,382080,825000,442920
+Choco vi muoi Crinkles (50gr) - 3 banh,12,2021,21-Dec,Cookie,40,20000,18500,740000,800000,60000
+Ca phe matcha (size M),12,2021,21-Dec,Presso,13,55000,11643,151359,715000,563641
+Ca phe sua dua va que,12,2021,21-Dec,Presso,14,50000,11036,154504,700000,545496
+Combo Kombucha & 50gr Choco Crinkles,12,2021,21-Dec,Combo,9,70000,23820,214380,630000,415620
+Ca phe u lanh kem vanilla (size M),12,2021,21-Dec,Presso,11,55000,7886,86746,605000,518254
+Matcha Latte,12,2021,21-Dec,Non - Presso,15,40000,6014,90210,600000,509790
+Tra sa vai,12,2021,21-Dec,Non - Presso,17,35000,5786,98362,595000,496638
+latte tan cham,12,2021,21-Dec,Presso,13,45000,4430,57590,585000,527410
+Tra sa vai (size M),12,2021,21-Dec,Non - Presso,12,45000,8383,100596,540000,439404
+Ca phe Caramel,12,2021,21-Dec,Presso,12,45000,7744,92928,540000,447072
+Americano,12,2021,21-Dec,Presso,13,40000,2500,32500,520000,487500
+Ca phe matcha,12,2021,21-Dec,Presso,10,45000,7502,75020,450000,374980
+Ca phe u lanh cam mat ong,12,2021,21-Dec,Presso,10,45000,9750,97500,450000,352500
+Den Da,12,2021,21-Dec,Presso,17,25000,4150,70550,425000,354450
+Combo Matcha Fusion & 50gr Choco Crinkles,12,2021,21-Dec,Combo,6,70000,22143,132858,420000,287142
+Tonic Presso,12,2021,21-Dec,Presso,7,55000,11500,80500,385000,304500
+Tra hoa thach hat chia,12,2021,21-Dec,Non - Presso,10,35000,3034,30340,350000,319660
+Latte,12,2021,21-Dec,Presso,7,40000,7744,54208,280000,225792
+Sprite Presso,12,2021,21-Dec,Presso,5,55000,11500,57500,275000,217500
+Ca phe u lanh kem vanilla,12,2021,21-Dec,Presso,6,45000,6626,39756,270000,230244
+Soda tac muoi,12,2021,21-Dec,Non - Presso,6,45000,8300,49800,270000,220200
+Cappuccino,12,2021,21-Dec,Presso,6,40000,7744,46464,240000,193536
+Doi qua sua hat / switch to almond milk,12,2021,21-Dec,Non- Presso,47,5000,7056,331632,235000,-96632
+Den Da (size M),12,2021,21-Dec,Presso,6,35000,4418,26508,210000,183492
+Ca phe u lanh tac muoi (size M),12,2021,21-Dec,Presso,3,55000,6710,20130,165000,144870
+Soda tac muoi (size M),12,2021,21-Dec,Non - Presso,3,55000,9230,27690,165000,137310
+Cappuccino (size M),12,2021,21-Dec,Presso,3,50000,10510,31530,150000,118470
+Mocha (size M),12,2021,21-Dec,Presso,2,50000,11701,23402,100000,76598
+Ca phe u lanh Da me,12,2021,21-Dec,Presso,2,45000,6864,13728,90000,76272
+Ca phe u lanh tac muoi,12,2021,21-Dec,Presso,2,45000,5240,10480,90000,79520
+Mocha,12,2021,21-Dec,Presso,2,40000,8028,16056,80000,63944
+Combo Kumquat Coldbrew & 50gr Choco Crinkles,12,2021,21-Dec,Combo,1,70000,17610,17610,70000,52390
+Ca phe u lanh nitro,12,2021,21-Dec,Presso,1,45000,8840,8840,45000,36160
+"Sua ""chill"" espresso",12,2021,21-Dec,Presso,1,45000,5460,5460,45000,39540
+Sugar daddy uong coffee,12,2021,21-Dec,Presso,1,45000,17075,17075,45000,27925
+Keo Dalgona (goi),12,2021,21-Dec,Cookie,1,5000,1500,1500,5000,3500
